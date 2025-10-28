@@ -1,0 +1,27 @@
+[
+  {
+    "objectID": "https://docs.unity.com/en-us/unity-lite/develop/ui-refs/hierarchy-panel-0",
+    "url": "https://docs.unity.com/en-us/unity-lite/develop/ui-refs/hierarchy-panel",
+    "title": "Hierarchy panel overview",
+    "hierarchy": { "lvl0": "Hierarchy panel overview", "h2": "Hierarchy panel overview" },
+    "brand": "Unity Docs",
+    "categories": ["Unity Lite", "UI"],
+    "content": "The Hierarchy panel provides essential tools to help you manage the structure and organization of your scene in Unity Lite…"
+  },
+  {
+    "objectID": "https://docs.unity.com/ugs/en-us/manual/cloud-code/manual/modules/how-to-guides/module-structure-0",
+    "url": "https://docs.unity.com/ugs/en-us/manual/cloud-code/manual/modules/how-to-guides/module-structure",
+    "title": "Module structure",
+    "hierarchy": { "lvl0": "Module structure", "h2": "Module structure" },
+    "categories": ["UGS", "Cloud Code"],
+    "content": "A Cloud Code module is a simple .NET project that exposes the endpoints a game client can call…"
+  },
+  {
+    "objectID": "https://docs.unity.com/ugs/en-us/manual/cloud-code/manual/triggers/concepts/trigger-structure-0",
+    "url": "https://docs.unity.com/ugs/en-us/manual/cloud-code/manual/triggers/concepts/trigger-structure",
+    "title": "Trigger structure",
+    "hierarchy": { "lvl0": "Trigger structure", "h2": "Overlap with events" },
+    "categories": ["UGS", "Cloud Code"],
+    "content": "Triggers are associated with events. When an event is fired, the associated trigger is invoked…"
+  }
+]
